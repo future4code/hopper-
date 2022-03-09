@@ -58,7 +58,7 @@ let arraySecundario = []
 
 function arrayPares(array, array2) {
     
- for (const index of array) {
+ for (let index of array) {
 
      if (index % 2 === 0) {
      array2.push(index)
