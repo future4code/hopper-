@@ -1,0 +1,18 @@
+
+
+
+.cor-titulo {
+    color: brown;
+}
+
+#subtitulo {
+    background-color: black;
+    color: antiquewhite;
+    display: inline;
+}
+
+
+.margin-padding {
+    margin: 40%;
+    padding: 60%;
+}
