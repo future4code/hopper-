@@ -37,6 +37,16 @@ div img {
     background: black;
 }
 
+.posicao-cabecalho {
+    margin: 0px;
+    padding: 100px 100px;
+    text-align: center;
+    position: relative;
+    top: 15%;
+
+}
+
+
 .botao-amarelo {
     position: absolute;
     top: 30% ;
