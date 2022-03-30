@@ -31,6 +31,7 @@ img {
 
 div>p:first-child {
     display: inline;
+    
 }
 
 div img {
@@ -38,13 +39,14 @@ div img {
 }
 
 .posicao-cabecalho {
-    margin: 0px;
-    padding: 100px 100px;
+
     text-align: center;
     position: relative;
-    top: 15%;
+    top: 30%;
+    
 
 }
+
 
 
 .botao-amarelo {
@@ -73,6 +75,14 @@ div img {
     height: 15px;
 }
 
+#primeira-frase {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 50%;
+    margin-left: -80px;
+    margin-top: -80px;
+}
 
 /** 
   *
