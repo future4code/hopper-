@@ -154,3 +154,13 @@ td button {
 #back-button:hover {
     background-color: #635a3d
 }
+
+.botoes-compra:hover {
+    background-color: #c44f00;
+}
+
+.botoes-compra:active {
+    background-color: white;
+    
+}
+
